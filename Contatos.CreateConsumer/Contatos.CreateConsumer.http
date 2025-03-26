@@ -1,0 +1,6 @@
+@Contatos.CreateConsumer_HostAddress = http://localhost:5162
+
+GET {{Contatos.CreateConsumer_HostAddress}}/
+Accept: application/json
+
+###
